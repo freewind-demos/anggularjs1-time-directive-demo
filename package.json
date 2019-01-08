@@ -1,5 +1,9 @@
 {
+  "scripts": {
+    "demo": "open index.html"
+  },
   "dependencies": {
-    "angular": "^1.7.3"
+    "angular": "^1.7.3",
+    "moment": "2.23.0"
   }
 }

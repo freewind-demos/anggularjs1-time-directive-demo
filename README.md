@@ -1,7 +1,9 @@
-AngularJS1 Directive Template Controller Demo
-=============================================
+AngularJS1 Time Directive Demo
+==============================
+
+The key is `$scope.$apply()`
 
 ```
 npm install
-open index.html
+npm run demo
 ```
