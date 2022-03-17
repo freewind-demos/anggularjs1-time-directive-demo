@@ -5,5 +5,5 @@ The key is `$scope.$apply()`
 
 ```
 npm install
-npm run demo
+npm start
 ```
